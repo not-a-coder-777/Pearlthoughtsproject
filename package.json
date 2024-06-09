@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
   "version": "1.0.0",
-  "description": "Hello World Node.js app",
+  "description": "Hello World",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
